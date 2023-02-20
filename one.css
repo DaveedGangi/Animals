@@ -1,0 +1,72 @@
+.background{
+    background-image:url(" https://images.pexels.com/photos/2649403/pexels-photo-2649403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size:cover;
+    height:178vh;
+
+}
+.img1{
+    height:150px;
+    width:190px;
+    border-radius:13px;
+    text-align:center;
+}
+.animals{
+    margin:20px;
+    background-color:wheat;
+    height:200px;
+    width:250px;
+    text-align:center;
+    border-radius:25px;
+    padding:25px;
+}
+.header{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:cornflowerblue;
+    padding-left:40px;
+}
+.backround2{
+    background-image:url(" https://images.pexels.com/photos/2780463/pexels-photo-2780463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size:cover;
+    height:100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left:25px;
+    font-size:14px;
+    color:aqua;
+}
+.heder_panda{
+    font-size:15px;
+}
+.buton{
+    height:45px;
+    width:149px;
+}
+.AnimalsContainer{
+padding:20px;
+}
+.backround3{
+    background-image:url(" https://images.pexels.com/photos/10550331/pexels-photo-10550331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size:cover;
+    height:100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left:25px;
+    font-size:14px;
+    color:aqua;
+}
+.backround4{
+    background-image:url("https://images.pexels.com/photos/1054658/pexels-photo-1054658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size:cover;
+    height:100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left:25px;
+    font-size:14px;
+    color:aqua;
+}
+.backround5{
+    background-image:url("https://images.pexels.com/photos/3114143/pexels-photo-3114143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size:cover;
+    height:100vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left:25px;
+    font-size:14px;
+    color:aqua;
+}
